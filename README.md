@@ -19,7 +19,7 @@
 
 <div style="padding:20px; border-radius:18px; background:#0B1220; box-shadow:0 10px 30px rgba(0,0,0,0.3);">
 
-<img src="https://sugumaranj.netlify.app/data/images/Sugumaran_Hd.png" width="400"
+<img src="https://sugumaranj.netlify.app/data/images/default.png" width="400"
 style="border-radius:50%; border:3px solid #38BDF8; box-shadow:0 0 25px rgba(56,189,248,0.5);" />
 
 <br/><br/>
